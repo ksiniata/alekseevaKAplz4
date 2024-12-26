@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|c:\\users\\alekseeva.k.a\\downloads\\alekseevaka\\alekseeva\\alekseeva\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|solutionrelative:alekseeva\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|c:\\users\\alekseeva.k.a\\downloads\\alekseevaka\\alekseeva\\alekseeva\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|solutionrelative:alekseeva\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|c:\\users\\alekseeva.k.a\\downloads\\alekseevaka\\alekseeva\\alekseeva\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|solutionrelative:alekseeva\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|c:\\users\\alekseeva.k.a\\downloads\\alekseevaka\\alekseeva\\alekseeva\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|solutionrelative:alekseeva\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|c:\\users\\alekseeva.k.a\\downloads\\alekseevaka\\alekseeva\\alekseeva\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|solutionrelative:alekseeva\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|c:\\users\\alekseeva.k.a\\downloads\\alekseevaka\\alekseeva\\alekseeva\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|solutionrelative:alekseeva\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|c:\\users\\alekseeva.k.a\\downloads\\alekseevaka\\alekseeva\\alekseeva\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|solutionrelative:alekseeva\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|c:\\users\\alekseeva.k.a\\downloads\\alekseevaka\\alekseeva\\alekseeva\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|solutionrelative:alekseeva\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|c:\\users\\alekseeva.k.a\\downloads\\alekseevaka\\alekseeva\\alekseeva\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D94943-69F3-4B8D-A12F-347EF9687AC7}|Alekseeva\\Alekseeva.csproj|solutionrelative:alekseeva\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Alekseeva.K.A\\source\\repos\\Alekseeva\\Alekseeva\\Window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePasswordWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\ChangePasswordWindow.xaml",
+              "RelativeDocumentMoniker": "Alekseeva\\ChangePasswordWindow.xaml",
+              "ToolTip": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\ChangePasswordWindow.xaml",
+              "RelativeToolTip": "Alekseeva\\ChangePasswordWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T10:38:12.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Alekseeva\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\MainWindow.xaml",
+              "RelativeToolTip": "Alekseeva\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T07:17:55.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\Admin.xaml",
+              "RelativeDocumentMoniker": "Alekseeva\\Admin.xaml",
+              "ToolTip": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\Admin.xaml",
+              "RelativeToolTip": "Alekseeva\\Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T10:06:17.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\App.xaml",
+              "RelativeDocumentMoniker": "Alekseeva\\App.xaml",
+              "ToolTip": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\App.xaml",
+              "RelativeToolTip": "Alekseeva\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T10:37:49.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Alekseeva\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\AssemblyInfo.cs",
+              "RelativeToolTip": "Alekseeva\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:38:20.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Alekseeva\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\AppDbContext.cs",
+              "RelativeToolTip": "Alekseeva\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:38:20.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUser.xaml",
+              "DocumentMoniker": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\AddUser.xaml",
+              "RelativeDocumentMoniker": "Alekseeva\\AddUser.xaml",
+              "ToolTip": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\AddUser.xaml",
+              "RelativeToolTip": "Alekseeva\\AddUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T10:37:51.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Alekseeva\\Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\Admin.xaml.cs",
+              "RelativeToolTip": "Alekseeva\\Admin.xaml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:48:26.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\Alekseeva.K.A\\source\\repos\\Alekseeva\\Alekseeva\\Window2.xaml",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Alekseeva\\Alekseeva\\Window2.xaml",
+              "ToolTip": "C:\\Users\\Alekseeva.K.A\\source\\repos\\Alekseeva\\Alekseeva\\Window2.xaml",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Alekseeva\\Alekseeva\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T11:23:40.853Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Alekseeva\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Alekseeva.K.A\\Downloads\\AlekseevaKA\\Alekseeva\\Alekseeva\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Alekseeva\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:17:52.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
